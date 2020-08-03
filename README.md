@@ -1,2 +1,3 @@
 # wechat_service
-微信
+
+微信公众号
